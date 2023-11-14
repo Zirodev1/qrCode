@@ -1,0 +1,42 @@
+body {
+    background-color: hsl(212, 45%, 89%);
+}
+
+.wrapper {
+    width: 20rem;
+    height: 31rem;
+    margin-inline: auto;
+    border-radius: 1.25rem;
+    background-color: hsl(0, 0%, 100%);
+    box-shadow: 0px 25px 25px 0px rgba(0, 0, 0, .05);
+}
+
+.wrapper img {
+    width: 18rem;
+    height: 18rem;
+    border-radius: .625rem;
+    background-color: #2c7dfa;
+    margin-inline: auto;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+
+.qr-info {
+    width: 16rem;
+    text-align: center;
+    margin-inline: auto;
+    letter-spacing: .0011rem;
+}
+
+.qr-info h2 {
+    font-size: 1.37rem;
+}
+
+.qr-info p {
+    font-size: .9rem;
+    color: #7d889e;
+}
+
+.attribution {
+    margin-top: 20px;
+}
